@@ -16,7 +16,11 @@ Laboratório 7 da disciplina de Introdução a Ciência da Computação
 
 
 
-\##Lab 7
+##Versão final
 
-Mudança 2
+Mudança 2 
+## Desafio
+
+Versão avançada??
+altera-titulo
 
