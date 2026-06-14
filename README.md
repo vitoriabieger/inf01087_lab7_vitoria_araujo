@@ -16,3 +16,7 @@ Laboratório 7 da disciplina de Introdução a Ciência da Computação
 
 
 
+\## Desafio
+
+Versão avançada??
+
